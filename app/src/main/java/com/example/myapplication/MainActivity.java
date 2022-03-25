@@ -1,3 +1,9 @@
+/**
+ * @author Derek Almanza -
+ * <a href="Derek.Almanza@ciencias.unam.mx" >Derek.Almanza@ciencias.unam.mx</a>
+ *
+ */
+
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
