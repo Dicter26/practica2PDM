@@ -1,9 +1,9 @@
 /**
- * @author Derek Almanza -
- * <a href="Derek.Almanza@ciencias.unam.mx" >Derek.Almanza@ciencias.unam.mx</a>
-
  * @author Dicter Tadeo García Rosas -
  * <a href="mailto:dicter.r26@ciencias.unam.mx" >dicter.r26@ciencias.unam.mx</a>
+ *
+ * @author Derek Almanza -
+ * <a href="Derek.Almanza@ciencias.unam.mx" >Derek.Almanza@ciencias.unam.mx</a>
  */
 
 package com.example.myapplication;
