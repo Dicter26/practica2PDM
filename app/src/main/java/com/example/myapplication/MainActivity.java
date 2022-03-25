@@ -1,3 +1,8 @@
+/**
+ * @author Dicter Tadeo García Rosas -
+ * <a href="mailto:dicter.r26@ciencias.unam.mx" >dicter.r26@ciencias.unam.mx</a>
+ */
+
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
